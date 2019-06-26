@@ -1,0 +1,9 @@
+# Angular and React
+node_modules/
+package-lock.json
+
+#Visual Studio Code
+.vscode/
+
+#etc
+input-player-scores.js

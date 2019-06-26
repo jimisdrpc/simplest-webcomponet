@@ -1,0 +1,9 @@
+{
+  "name": "simplest-webcomponent",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:5000",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
