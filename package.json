@@ -4,6 +4,9 @@
   "private": true,
   "proxy": "http://localhost:5000",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mocha": "^6.1.4",
+    "wct-browser-legacy": "^1.0.2",
+    "web-component-tester": "^6.9.2"
   }
 }
