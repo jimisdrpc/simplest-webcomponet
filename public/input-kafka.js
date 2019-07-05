@@ -28,6 +28,10 @@ class InputKafka extends HTMLElement {
   disconnectedCallback() {
     console.log('disconnectedCallback');
   }
+
+  adoptedCallback() {
+    console.log('adoptedCallback');
+  }
 }
 
 window.customElements.define("input-kafka", InputKafka);
